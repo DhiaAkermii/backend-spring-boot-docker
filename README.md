@@ -5,7 +5,9 @@ This is a simple Spring boot application for a booking system which allow a book
 
 To run this application you just need to 
 1 - Install docker
+
 2 - /spring-boot-unit-test-rest-controller/docker build -t app .
+
 3 - /docker-compose up
 
 
