@@ -43,7 +43,7 @@ POST REQUEST
 
 ![image](https://user-images.githubusercontent.com/65496901/187029052-4ad9eab8-ecce-4252-bc94-966ca5eac5d2.png)
 
-And finally we can the the hikers inside an existing booking with
+And finally we can see the hikers inside an existing booking with
 
 http://localhost:8091/bookings-hikers/{id}
 
