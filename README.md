@@ -19,5 +19,12 @@ Docker will start 2 containers for you
 
 ![image](https://user-images.githubusercontent.com/65496901/187028369-a86093c4-6b74-4c78-aa6b-9a6c3ad9b72e.png)
 
+Once you start your containers 3 Trails will be created automatically and you can get them using
+
+Get request for http://localhost:8091/trails
+
+![image](https://user-images.githubusercontent.com/65496901/187028733-1c0733ff-cdbb-4120-96f1-db13b75fbe5b.png)
+
+
 
 
